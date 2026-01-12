@@ -34,8 +34,6 @@ OOP Principles – Encapsulation, Abstraction, Inheritance, and Polymorphism
 
 📦 Setup & Execution
 Step 1: Clone the Repository
-git clone https://github.com/Sameer07x19/TicketBookingSystem.git
-cd TicketBookingSystem
 
 Step 2: Build the Project
 ./gradlew build
