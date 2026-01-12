@@ -1,6 +1,6 @@
 🎟️ Ticket Booking System (Command-Line Application)
 
-This project is a Java-based Ticket Booking System built as a command-line application, with the goal of strengthening my understanding of Object-Oriented Programming (OOP) concepts and applying them to a real-world problem.
+This project is a Java-based Ticket Booking System built as a command-line application, with the goal of strengthening my understanding of System design, microservices and applying them to a real-world problem.
 The system simulates core railway booking functionalities such as user authentication, train discovery, seat reservation and booking cancellation in a structured and modular way.
 
 This project helped me gain hands-on experience in designing scalable logic, managing application state and structuring a clean Java codebase.
